@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "zpfltm12",
+    "password": //secret,
     "database": "nodesns",
     "host": "127.0.0.1",
     "dialect": "mysql",
